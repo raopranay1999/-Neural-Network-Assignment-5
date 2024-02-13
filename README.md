@@ -1,7 +1,7 @@
 # Neural-Network-Assignment-5
 Spring 2024: CS5720: Neural Network Deep Learning:  Programming Assignment-5
 
-Name: Prany Rao ID: 700745063
+Name: Sai Deva Pranay Kumar Rao, Guddity ID: 700745063
 
 Code File - ICP_5_Spring24 (Naive Bayes).ipynb
 
